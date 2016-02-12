@@ -160,7 +160,7 @@ plot3 <- SkillsBubbleGvM(df)
 grid.arrange(plot1, plot2, plot3, nrow = 3)
 
 ```
-
+These three bubble charts help us understand the correlation between the most predominant skills in the survey. The interpretation of the bubble charts are similar to those of the heat map. The top chart reflects little correlation between R and Matlab. However, the middle chart reflects that those who have dedicated themselves in statistical fields have garnered significant strength in R, but have not been practicing Github as prevalently. Likewise in the bottom chart, those in statistical fields are stronger in Matlab than Github which further affirms our conclusion.
 
 #Conclusion
 The analysis conducted throughout this paper was targeted to reveal potentially interesting directions for further research of the topic if needed. Among these we would like to mention the following:
